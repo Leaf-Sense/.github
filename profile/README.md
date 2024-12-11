@@ -39,7 +39,7 @@ Leaf Sense is designed to assist farmers and agricultural enthusiasts in diagnos
 
 ### Project Documentation
 1. **Learning Path Documentation**
-   - [Machine Learning](#)
+   - [Machine Learning](https://github.com/Leaf-Sense/ML-Model)
    - [Cloud Computing (Article API)](https://github.com/Leaf-Sense/Leaf-Sense-Article-API)
    - [Cloud Computing (ML API)](https://github.com/Leaf-Sense/CC-ML-API)
    - [Mobile Development](#)
