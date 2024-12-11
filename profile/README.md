@@ -3,7 +3,7 @@
 ## Leaf Sense
 **Plant Health Monitor**
 
-<img src="image/logoapk2.png" alt="Leaf Sense Logo" width="200">
+<img src="../image/logoapk2.png" alt="Leaf Sense Logo" width="200">
 
 ---
 
@@ -33,7 +33,7 @@ Leaf Sense is designed to assist farmers and agricultural enthusiasts in diagnos
 - **Cloud Computing API:** Backend services for CRUD operations, database management, and image storage.
 - **Mobile Development:** User-friendly mobile application to upload plant images and view detection results.
 
-<img src="image/GCP-Architecture.jpg" alt="Leaf Sense Logo" width="1000">
+<img src="../image/GCP-Architecture.jpg" alt="Leaf Sense Logo" width="1000">
 
 ---
 
