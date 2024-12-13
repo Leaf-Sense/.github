@@ -24,7 +24,8 @@ Leaf Sense is designed to assist farmers and agricultural enthusiasts in diagnos
 ---
 
 ### Application Result
-(Details about the outcomes or evaluations of the project can be provided here.)
+
+<img src="../image/LEAFSENSE.png" alt="Leaf Sense Result" width="1000">
 
 ---
 
@@ -33,7 +34,7 @@ Leaf Sense is designed to assist farmers and agricultural enthusiasts in diagnos
 - **Cloud Computing API:** Backend services for CRUD operations, database management, and image storage.
 - **Mobile Development:** User-friendly mobile application to upload plant images and view detection results.
 
-<img src="../image/GCP-Architecture.jpg" alt="Leaf Sense Logo" width="1000">
+<img src="../image/GCP-Architecture.jpg" alt="Leaf Sense Architecture" width="1000">
 
 ---
 
